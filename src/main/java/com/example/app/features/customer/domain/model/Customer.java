@@ -1,8 +1,8 @@
-package com.example.app.features.customer.domain.domain.model;
+package com.example.app.features.customer.domain.model;
 
 import java.util.UUID;
 
-import com.example.app.features.customer.domain.domain.valueobject.Email;
+import com.example.app.features.customer.domain.valueobject.Email;
 
 public class Customer {
     
